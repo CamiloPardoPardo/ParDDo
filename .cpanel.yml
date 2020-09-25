@@ -1,0 +1,6 @@
+---
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ooyfalbu/public_html/master/
+    - /bin/cp * $DEPLOYPATH
