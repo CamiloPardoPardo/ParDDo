@@ -6,7 +6,7 @@
         <div class="container">
             <div class="section-heading text-center">
                 <div class="col-md-12 col-xs-12">
-                    <h1>Estado de mi <span>equipo</span></h1>
+                    <h1>Estado de mis <span>equipos</span></h1>
                     <p class="subheading">Lorem ipsum dolor sit amet sit legimus copiosae instructior ei ut vix denique fierentis ea saperet inimicu ut qui dolor oratio mnesarchum ea utamur impetus fuisset nam nostrud euismod volumus ne mei.</p>
                 </div>
             </div>
