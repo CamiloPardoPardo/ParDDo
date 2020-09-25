@@ -5,7 +5,7 @@
 <section id="top_banner">
         <div class="banner">
             <div class="inner text-center">
-                <h2>Estamos en desarrollo</h2>
+                <h2>Estamos en desarrollo ok</h2>
             </div>
         </div>
         <div class="page_info">
