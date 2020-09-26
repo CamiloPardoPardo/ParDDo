@@ -2,5 +2,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/ooyfalbu/public_html/master/
+    - export DEPLOYPATH=/home/ooyfalbu/public_html/Laravel/
     - /bin/cp * $DEPLOYPATH
