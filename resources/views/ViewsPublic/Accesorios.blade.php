@@ -30,7 +30,7 @@
                 <div class="section-heading text-center">
                     <div class="col-md-12 col-xs-12">
                         <h1>Muy<span> Pronto</span></h1>
-                        <p class="subheading">Lorem ipsum dolor sit amet sit legimus copiosae instructior ei ut vix denique fierentis ea saperet inimicu ut qui dolor oratio mnesarchum ea utamur impetus fuisset nam nostrud euismod volumus ne mei.</p>
+                        <p class="subheading">Muy pronto podras sit amet sit legimus copiosae instructior ei ut vix denique fierentis ea saperet inimicu ut qui dolor oratio mnesarchum ea utamur impetus fuisset nam nostrud euismod volumus ne mei.</p>
                     </div>
                 </div>
             </div>
